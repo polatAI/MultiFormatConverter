@@ -1,0 +1,4 @@
+PyPDF2
+python-docx
+moviepy
+pdf2pptx
